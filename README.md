@@ -1,7 +1,7 @@
 QuickAuth
 ==========
 
-Google Authenticator for the Pebble smart watch!
+TOTP Key Generator for the Pebble smart watch!
 
 ![](doc/pebbleauth_watch1_50.png) ![](doc/pebbleauth_watch2_50.png) ![](doc/pebbleauth_watch3_50.png) ![](doc/pebbleauth_watch4_50.png)
 
